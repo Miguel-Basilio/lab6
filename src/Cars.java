@@ -1,6 +1,6 @@
 
 
-public class Cars {
+public class Cars extends Automobile {
 
 	public static void main(String[] args) {
 	        Automobile yellow = new Automobile(); 

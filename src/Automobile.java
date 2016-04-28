@@ -1,5 +1,5 @@
 
-public class Automobile {
+public class Automobile{
    int doors;
    int cylinders;
    String color;
